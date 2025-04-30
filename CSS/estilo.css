@@ -1,0 +1,80 @@
+@charset "UTF-8";
+
+body{
+    background-color:#7B87A9 ;
+    margin: 0%;
+}
+
+header{
+    height: 70px;
+    width: 1000px;
+    /*background-color:hotpink;*/
+    margin:auto;
+}
+
+nav{
+    height: 70px;
+    width: 350px;
+    /*background-color:darkgreen;*/
+    float: right;
+    text-align: center;
+}
+
+#menu{
+    padding: 25px 0 0 0;
+}
+
+#imglogo{
+    /*background-color: blue;*/
+    width:450px;
+    height:70px;
+}
+
+#titulo{
+    padding: 1px 0 0 0;
+    color: #40455A;
+}
+
+/*Criando o Banner*/
+
+#banner{
+    /*background-color: #84DD63;*/
+    height: 500px;
+    width: 100%;
+    background-image: url(../IMAGEM/pexels-pavel-danilyuk-6203560.jpg);
+    background-size: cover;
+}
+
+/*Section 01 sobre*/
+
+#ContainerSobre{
+    width: 1000px;
+    height: 400px;
+    /*background-color: hotpink;*/
+    margin: auto;
+}
+
+#txtSobre{
+    width: 600px;
+    height: 400px;
+    /*background-color: darkgreen;*/
+    float:right
+}
+
+#imgSobre{
+    width: 370px;
+    height: 400px;
+    /*background-color: blue;*/
+}
+
+p{
+    color: white;
+}
+
+#imagem{
+    height: 400px
+}
+
+h2{
+    color: #44475D;
+}
