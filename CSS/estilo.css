@@ -78,3 +78,100 @@ p{
 h2{
     color: #44475D;
 }
+
+/*Section 01 Serviços*/
+
+#ContainerServicos{
+    background-color: #D9BF8E;
+    width: 100%;
+    height: 500px;
+}
+
+#servicos{
+    /*background-color: hotpink;*/
+    width: 1000px;
+    height: 500px;
+    margin: auto;
+}   
+
+.qadServ{
+    /*background-color: blue;*/
+    width: 300px;
+    height: 375px;
+    float: right;
+    margin: 75px 25px 0 0;
+}
+    
+.imgServ{
+    /*background-color: darkgreen;*/
+    width: 250px;
+    height: 200px;
+    margin: 25px 0 0 25px;
+}
+
+#mikasa{
+    width: 250px;
+    height: 200px;
+}
+
+#molten{
+    width: 250px;
+    height: 200px;
+    
+}
+
+#penalty{
+    width: 250px;
+    height: 200px;
+}
+
+.txtServ{
+    text-align: center;
+    color: #44475D;
+}
+
+#contato{
+    /*background-color: hotpink;*/
+    width: 1000px;
+    height: 500px;
+    margin: auto;
+}
+
+#ContainerNome{
+    /*background-color: darkmagenta;*/
+    width: 450px;
+    height: 450px;
+    float: right;
+    margin: 25px 25px 0 0 ;
+}
+
+#nomesite{
+    /*background-color:blue;*/
+    width: 270px;
+    height: 50px;
+    margin: 15px 0 0 90px;
+    text-align: center;
+}
+
+#txtsite{
+    /*background-color: blue;*/
+    width: 270px;
+    height: 270px;
+    margin: 25px 0 0 90px;
+    text-align: center;
+}
+
+#footer{
+    /*background-color: blue;*/
+    width: 270px;
+    height: 50px;
+    margin: 25px 0 0 90px;
+    text-align: center;
+}
+
+#mapacont{
+    background-color: blue;
+    width: 350px;
+    height: 450px;
+    margin: 0 50px 0 0;
+}
